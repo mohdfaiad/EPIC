@@ -73,6 +73,7 @@
       <br />
     </div>
     <br />
+
     <div>
       <table class='table hovered'>
         <thead>
@@ -86,7 +87,18 @@
             }
           ?>
         </tbody>
+      </table>
     </div>
+
+    <br />
+    <br />
+    <br />
+
+    <h3 class='text-bold'>How to upload Physical Count on SATS? (STI Asset Tracking System)</h3>
+    <p class='text-normal'>- <b>Click</b> the <b>CSV below the Barcode Mode</b> to generate report to be uploaded on SATS.</p>
+    <p class='text-normal'>- Remove all unecessary things and <b>leave the property column only</b>. (No Column Headers).</p>
+    <p class='text-normal'>- Save it again, make sure it is in a <b>CSV format</b>.</p>
+    <p class='text-normal'>- Go to <b>Accountabilities Of</b> on SATS, <b>click Upload Physical Count</b> and choose the CSV you saved.</p>
   </body>
 </html>
 
